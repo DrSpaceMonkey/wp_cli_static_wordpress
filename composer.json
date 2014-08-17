@@ -1,0 +1,12 @@
+{
+	"name": "Static_Wordpress",
+	"description": "Generates a static version of your Wordpress site",
+	"homepage": "",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4"
+	},
+	"autoload": {
+		"files": [ "command.php" ]
+	}
+}
